@@ -1,1 +1,16 @@
-database_values
+{
+  "postgresqldb_docker_test" : {
+    "host": "localhost",
+    "port": 54320,
+    "dbname": "testing",
+    "user": "postgres",
+    "password": "admin"
+  },
+  "postgresqldb_docker_postgres" : {
+    "host": "localhost",
+    "port": 54320,
+    "dbname": "postgres",
+    "user": "postgres",
+    "password": "admin"
+  }
+}

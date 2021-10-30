@@ -1,0 +1,5 @@
+2021-10-31 00:00:21,950~CRITICAL~Something critical~module:logger
+2021-10-31 00:00:21,950~ERROR~An error~module:logger
+2021-10-31 00:00:21,950~WARNING~A warning~module:logger
+2021-10-31 00:00:21,950~INFO~My info is that you are here~module:logger
+2021-10-31 00:00:21,950~DEBUG~I'm debugging~module:logger
