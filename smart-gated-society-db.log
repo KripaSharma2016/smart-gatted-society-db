@@ -1,0 +1,5 @@
+2021-11-07 14:33:05,887~WARNING~ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.~module:_internal
+2021-11-07 14:33:05,887~INFO~ * Running on http://192.168.1.2:8085/ (Press CTRL+C to quit)~module:_internal
+2021-11-07 14:33:11,254~INFO~127.0.0.1 - - [07/Nov/2021 14:33:11] "POST /sgsd/v1/internal/sg/register HTTP/1.1" 200 -~module:_internal
+2021-11-07 14:34:02,760~INFO~127.0.0.1 - - [07/Nov/2021 14:34:02] "POST /sgsd/v1/internal/sg/register HTTP/1.1" 200 -~module:_internal
